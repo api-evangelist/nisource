@@ -25,3 +25,7 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+
+common:
+  - url: https://www.nisource.com/news
+    type: Blog
