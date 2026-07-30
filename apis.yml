@@ -5,7 +5,18 @@ description: >-
   States, serving approximately 3.5 million natural gas and electric customers
   across six states through its operating subsidiaries Columbia Gas and NIPSCO.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nisource.png
 tags:
   - Energy
   - Natural Gas
