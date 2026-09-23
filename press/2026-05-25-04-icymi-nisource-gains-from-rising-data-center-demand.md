@@ -1,7 +1,9 @@
 ---
 title: 'ICYMI: NiSource Gains From Rising Data Center Demand ...'
 url: https://www.facebook.com/quartznews/posts/icymi-nisource-gains-from-rising-data-center-demand-strategic-investment-ni-ride/1309673297695152/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NiSource" press release artificial intelligence'
 position: 4
 source: serpapi-google

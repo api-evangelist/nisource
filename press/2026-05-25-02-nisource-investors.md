@@ -1,7 +1,9 @@
 ---
 title: NiSource - Investors
 url: https://investors.nisource.com/investor-home/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NiSource" press release artificial intelligence'
 position: 2
 source: serpapi-google

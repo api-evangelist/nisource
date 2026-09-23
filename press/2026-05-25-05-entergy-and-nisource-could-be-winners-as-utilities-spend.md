@@ -1,7 +1,9 @@
 ---
 title: Entergy and NiSource Could Be Winners as Utilities Spend ...
 url: https://www.barrons.com/articles/utilities-ai-capex-stock-dividends-a52c752c
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NiSource" press release artificial intelligence'
 position: 5
 source: serpapi-google
